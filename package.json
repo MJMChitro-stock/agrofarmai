@@ -48,5 +48,7 @@
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.14",
     "typescript": "^5.1.3"
+    "@types/react-native": "^0.72.8",
+    "expo-cli": "^7.3.3"
   }
 }
